@@ -1,0 +1,1 @@
+Solo numeros enteros y pueden ser negativos tmb
