@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599956266 source:c:\users\santiago\desktop\utn\1ro g\laboratorio y programación 1\trabajos prácticos\tp_laboratorio_1\tp1\santiago_lema_tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"calculadora.h"
+
+1599949462 source:c:\users\santiago\desktop\utn\1ro g\laboratorio y programación 1\trabajos prácticos\tp_laboratorio_1\tp1\santiago_lema_tp1\calculadora.c
+	"calculadora.h"
+
+1599949269 c:\users\santiago\desktop\utn\1ro g\laboratorio y programación 1\trabajos prácticos\tp_laboratorio_1\tp1\santiago_lema_tp1\calculadora.h
+
