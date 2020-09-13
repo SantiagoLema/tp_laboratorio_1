@@ -1,0 +1,1 @@
+Factoriales. Tuve problemas con los numeros mayores a 12, no supe por qué pero los numeros menores a 12 la cuenta la hacía bien, pero con los mayores daba un numero largo pero erroneo, no se si será basura. En todo caso, no supe como resolverlo. Lo que hice, a modo de posible solución, fue mostrar un aviso de que numeros mayores a 12 no se podía mostrar el resultado.
