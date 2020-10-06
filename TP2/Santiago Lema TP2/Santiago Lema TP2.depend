@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1601952326 source:c:\users\santiago\desktop\utn\1ro g\laboratorio y programación 1\trabajos prácticos\tp_laboratorio_1\tp2\santiago lema tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1601922620 c:\users\santiago\desktop\utn\1ro g\laboratorio y programación 1\trabajos prácticos\tp_laboratorio_1\tp2\santiago lema tp2\datastoreok.h
+
+1601951658 source:c:\users\santiago\desktop\utn\1ro g\laboratorio y programación 1\trabajos prácticos\tp_laboratorio_1\tp2\santiago lema tp2\arrayemployees.c
+	"ArrayEmployees.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1601952442 c:\users\santiago\desktop\utn\1ro g\laboratorio y programación 1\trabajos prácticos\tp_laboratorio_1\tp2\santiago lema tp2\arrayemployees.h
+

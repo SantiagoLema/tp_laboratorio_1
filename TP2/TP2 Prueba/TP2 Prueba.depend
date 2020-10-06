@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1601926554 source:c:\users\santiago\desktop\utn\1ro g\laboratorio y programación 1\trabajos prácticos\tp_laboratorio_1\tp2\tp2 prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"DataStore2.h"
+	<string.h>
+
+1601925472 c:\users\santiago\desktop\utn\1ro g\laboratorio y programación 1\trabajos prácticos\tp_laboratorio_1\tp2\tp2 prueba\datastore2.h
+
